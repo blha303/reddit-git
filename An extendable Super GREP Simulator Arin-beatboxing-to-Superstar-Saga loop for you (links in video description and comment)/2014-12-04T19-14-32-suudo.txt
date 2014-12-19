@@ -1,0 +1,14 @@
+Inspired by [Super GREP Bros Theme (full) by ChaosKirby](https://www.youtube.com/watch?v=ovctAV6xSb0) and the call for a better loop.
+
+* I got a beatbox track from the start of this video: [Game Grumps - The Best of EGORAPTOR](https://www.youtube.com/watch?v=b0r65Ylxb6c)    
+* Then I got MLSS menu music from here: [Menu Screen - Mario & Luigi: Superstar Saga by GilviaSunner](https://www.youtube.com/watch?v=byGqqe0f92Y)    
+* Then I used Audacity (no professional looping software here, just good old-fashioned ears) to get loops for both, changed the tempo on the beatbox track to match the song, and was pleasantly surprised when it worked. Took ten minutes to make, from start to finish.    
+* Then I used ffmpeg to snip out the 7 second animation for looping, and made it loop using this trick http://video.stackexchange.com/a/12906    
+* I didn't upload a ten hour version because my internet can't handle it, but somebody with better internet can use the below Audacity projects and video to generate a 10 hour video fairly easily, I'd guess.
+
+Files:
+http://blha303.com.au/beatbox.zip Arin beatbox loop (audacity project, zipped)    
+http://blha303.com.au/greploop.zip Super GREP Loop Bros 33s track, ready for looping (audacity project, zipped)    
+http://blha303.com.au/grep.mp4 Animation loop (property of SIR The Artist, probably)
+
+Video and original music (not used in above video): [Super GREP Simulator by SIR The Artist](https://www.youtube.com/watch?v=ODrKQ8YpXrM)
